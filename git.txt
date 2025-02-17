@@ -113,3 +113,5 @@
         > git branch -M main
     -->
     <!-- git hub 1강 강의 내용: 링크 https://hackmd.io/@oW_dDxdsRoSpl0M64Tfg2g/ByfwpNJ-K -->
+
+    git pull origin 브런치명 --allow-unrelated-histories
